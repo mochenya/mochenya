@@ -27,4 +27,4 @@
 [![Redmi 3S](https://img.shields.io/badge/-Redmi%203S-orange?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/redmi3s)
 
 ## 🎶 Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mgnqwnj3bovzhkug6kqwtewjba&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31mgnqwnj3bovzhkug6kqwtewjba&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mgnqwnj3bovzhkug6kqwtewjba&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
