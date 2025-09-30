@@ -23,7 +23,7 @@ jobs:
       - name: Isometric Commit Calendar (Half-Year)
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
+          filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           config_timezone: Asia/Shanghai
@@ -43,3 +43,4 @@ jobs:
           plugin_languages_details: lines, bytes-size
           plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
+
