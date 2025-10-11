@@ -25,7 +25,7 @@
 [![HyperOS](https://img.shields.io/badge/HyperOS%203-007bff?style=flat-square&logo=android&logoColor=ffffff)](https://hyperos.mi.com/)
 [![Android 16](https://img.shields.io/badge/Android%2016-3DDC84?style=flat-square&logo=android&logoColor=ffffff)](https://developer.android.com/about/versions/16)
 [![Android 13](https://img.shields.io/badge/Android%2013%20Tiramsu-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)
-[![Fedora 42](https://img.shields.io/badge/Fedora%2042-51a2da?style=flat-square&logo=fedora&logoColor=ffffff)](https://fedoraproject.org/)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://archlinux.org/)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-0078d6?style=flat-square&logo=windows11&logoColor=white)](https://www.microsoft.com/windows/windows-11)
 
 ## 📱 Devices in use
