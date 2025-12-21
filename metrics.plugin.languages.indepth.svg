@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 20.7mb of code in 364 edited files across 104 commits</small>
+                <small>estimation from 20.8mb of code in 368 edited files across 108 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="242.58636918624978" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="242.58636918624978" y="0" width="193.64872496866883" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="436.2350941549186" y="0" width="23.764905845081408" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="228.72683934933372" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="228.72683934933372" y="0" width="208.86599977178503" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="437.5928391211188" y="0" width="22.40716087888124" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -62,8 +62,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>3.78k lines</div>
-                                <div>156 kB</div>
+                                <div>4.41k lines</div>
+                                <div>179 kB</div>
                             </small>
                         </div>
                     </section>
