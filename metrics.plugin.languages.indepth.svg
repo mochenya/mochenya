@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 21mb of code in 490 edited files across 148 commits</small>
+                <small>estimation from 21mb of code in 536 edited files across 152 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="193.53382910156668" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="193.53382910156668" y="0" width="187.05148065345287" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="380.5853097550195" y="0" width="77.60361999493647" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.188929749956" y="0" width="1.8110702500439841" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="185.85905498182657" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="185.85905498182657" y="0" width="179.63377042965112" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="365.49282541147767" y="0" width="74.52617220660836" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="440.0189976180861" y="0" width="19.981002381913935" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -75,8 +75,8 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>56 lines</div>
-                                <div>1.83 kB</div>
+                                <div>675 lines</div>
+                                <div>21 kB</div>
                             </small>
                         </div>
                     </section>
