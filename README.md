@@ -15,11 +15,9 @@
 - ❤️ Hobby: Coding and computers
 
 ## 🌱 Learning Programming Languages
-![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=fff)
-![C++](https://img.shields.io/badge/-C++-00599c?style=flat-square&logo=c%2B%2B&logoColor=fff)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=fff)
+![Go](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=go&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
-![Shell](https://img.shields.io/badge/-Shell-4eaa25?style=flat-square&logo=gnu%20bash&logoColor=fff)
+![Typescript](https://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=fff)
 
 ## 💻 Working environment
 [![HyperOS](https://img.shields.io/badge/HyperOS%203-007bff?style=flat-square&logo=android&logoColor=ffffff)](https://hyperos.mi.com/)
