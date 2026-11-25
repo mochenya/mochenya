@@ -7,7 +7,7 @@
 ![Metrics.Plugin.Languages.Indepth](/metrics.plugin.languages.indepth.svg)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mochenya&theme=buefy&show_icons=true)](https://github.com/mochenya)
 
-- 🎓 Role: A Student
+- 🎓 Software Engineering student
 - 🗣️ Language: zh-CN / zh-TW / en-US
 - 🌏 Location: China / Asia/Shanghai UTC+8
 - 💻 Field: Coder / ~~Developer~~
