@@ -26,6 +26,10 @@
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://archlinux.org/)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-0078d6?style=flat-square&logo=windows11&logoColor=white)](https://www.microsoft.com/windows/windows-11)
 
-## 📱 Devices in use
-[![Xiaomi 15](https://img.shields.io/badge/-Xiaomi%2015-orange?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/prod/xiaomi-15)
-[![Redmi Note11 4G](https://img.shields.io/badge/-Redmi%20Note11%204G-orange?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/product/redmi-10-2022/)
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mochenya/mochenya/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mochenya/mochenya/output/github-snake.svg">
+  <img alt="Snake animation of my GitHub contributions" src="https://raw.githubusercontent.com/mochenya/mochenya/output/github-snake.svg">
+</picture>
